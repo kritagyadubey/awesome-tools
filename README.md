@@ -1012,6 +1012,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 
 - [Thunderbird](https://www.thunderbird.net/) — Full-featured desktop email, calendar and contacts client from Mozilla. **Open source.**
 - [Shortwave](https://shortwave.com/) — AI-powered Gmail client with bundles, search and writing help. **Free tier · advanced AI and team features paid.**
+- [EpicMail](https://epicmail.org/) — A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. Browser and Android interfaces. **Free tier · up to 3 connected accounts · account and valid card required before connecting accounts · Adventurer $0 unless upgraded.**
 - [Syncthing](https://github.com/syncthing/syncthing) — Continuous peer-to-peer file synchronisation between your own devices, with no cloud account. **Open source.**
 - [Nextcloud](https://github.com/nextcloud/server) — Self-hosted suite for file sync, calendar, contacts and team collaboration. **Open source · self-host required.**
 - [Duplicati](https://github.com/duplicati/duplicati) — Encrypted, incremental backups to cloud storage such as S3, B2 and WebDAV through a web UI. **Open source.**
