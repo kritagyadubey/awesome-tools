@@ -1252,6 +1252,8 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [VSDC Free Video Editor](https://www.videosoftdev.com/vsdc-free-video-editor) — Non-linear Windows editor with effects, chroma key and encoding, with no watermark on free exports. **Free · Pro version sold separately.**
 - [Clipchamp](https://clipchamp.com) — Browser and Microsoft editor with stock assets and a screen recorder. **Free tier · Free tier exports 1080p without watermark; premium stock and 4K are paid.**
 
+- [VHS Filter](https://vhsfilter.com/) — Adds VHS tape effects to photos and short videos in the browser. **Free · video exports up to 1280 pixels wide; no watermark.**
+
 ### Screen recording and live streaming
 <!-- verified: 2026-10-16 -->
 
