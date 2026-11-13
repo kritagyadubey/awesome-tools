@@ -1362,6 +1362,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [WinMerge](https://winmerge.org/) — Visual folder and file differ for Windows with syntax highlighting and three-way merge. **Open source · Windows only.**
 
 - [QRCode Monkey](https://www.qrcode-monkey.com) — Free static QR code generator with logos, colors and vector export; codes never expire and have no scan limits. **Free · Logo files uploaded; images cached 24h. Dynamic codes are a separate paid product.**
+- [Appy Branded QR Code Generator](https://appy.to/tools/qr-code-generator) — Creates static QR codes for HTTPS links with custom colors, shapes, and a center logo. **Free · No signup · PNG, SVG, or WebP at 1024 px.**
 
 ### Hashing, metadata and encoding
 
