@@ -480,6 +480,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [AIxploria](https://www.aixploria.com/en/) — Curated directory of free and freemium AI tools organised by category. **Free.**
 - [Toolify](https://www.toolify.ai/) — Large indexed AI tools database with rankings and category browsing. **Free.**
 - [Hugging Face Spaces](https://huggingface.co/spaces) — Public gallery of free community-built AI demos you can run in the browser. **Free · Open source.**
+- [ArtiGram](https://artigram.cafeboon.com) — Free gallery of community-posted interactive HTML artifacts such as small games, calculators and data visualisations, with a remote MCP server. **Free · browsing and searching need no key; posting requires an API key.**
 - [AlternativeTo](https://alternativeto.net/) — Crowdsourced site for finding free or open-source alternatives to any software. **Free.**
 - [OpenAlternative](https://openalternative.co/) — Directory of open-source and self-hostable alternatives to popular paid SaaS products. **Free.**
 
@@ -1123,6 +1124,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [MyPaint](https://github.com/mypaint/MyPaint) — Pressure-sensitive painting app with an infinite canvas built for sketching. **Open source.**
 - [PeerBrush](https://peerbrush.com/) — Desktop painting and raster editor with brushes, layers, masks and read/write support for supported layered PSDs. **Free · Open source · Local/offline · GPL-3.0-only; Windows x64, Apple silicon macOS and Ubuntu 24.04 amd64.**
 - [Pixlr](https://pixlr.com/) — Online photo editor (Pixlr E and X) with AI generators, one-click background removal and batch editing. **Limited free · ads · premium tools and exports locked.**
+- [Preview Sheet Studio](https://preview-sheet-studio-1111.crisp-llama-2628.chatgpt.site/) — Arranges static PNG/JPEG images and optional labels into a two- or three-column PNG contact sheet in the browser. **Free · Japanese UI · no account · up to 12 images; 1600×1200 or 1600×1600 output; optional disclosed referral advertising on the site, separate from generated PNGs.**
 
 - [digiKam](https://www.digikam.org) — Advanced open-source photo manager with face recognition, geolocation, RAW editing and batch processing. **Open source.**
 - [ImageOptim](https://imageoptim.com) — Removes metadata and recompresses images losslessly so sites load faster; macOS only. **Open source · GPL v2+; paid Mac App Store build exists.**
@@ -1231,6 +1233,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [Phaser](https://phaser.io/) — Fast 2D HTML5 game framework rendering with WebGL and Canvas. **Open source.**
 - [Tiled](https://www.mapeditor.org/) — General-purpose tile map editor that exports maps to many engines. **Open source.**
 - [Piskel](https://www.piskelapp.com/) — Browser and desktop pixel-art editor for sprites, spritesheets and animated GIFs. **Open source.**
+- [PixelArtHive](https://pixelarthive.com/) — Browser converter that turns reference images into pixel art on a controlled grid and resizes existing sprites without blur. **Free · no account required; image processing runs locally.**
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) — Fantasy console with built-in code, sprite, map and sound editors for tiny 32K games. **Limited free · the desktop console costs money; the web Education Edition lacks exporters.**
 - [Kenney](https://kenney.nl/assets) — Huge packs of CC0 game assets: sprites, tiles, UI, sounds and 3D models. **Free · CC0, no attribution required.**
 - [OpenGameArt](https://opengameart.org/) — Repository of free music, sprites, sounds and 3D models published under open licences. **Free · licences vary per asset.**
@@ -1314,6 +1317,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [GorillaPDF](https://www.gorillapdf.com/) — Browser tools for compressing, converting, splitting and protecting PDF files. **Limited free · daily limits on some operations.**
 - [Smallpdf](https://smallpdf.com/) — Polished web suite for compressing, converting, signing and editing PDFs. **Free tier · daily usage limits.**
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) — Drag-and-drop desktop app for reordering, rotating, cropping and merging PDF pages. **Open source · Local/offline.**
+- [OpenP7M](https://openp7m.com/en/) — Opens PDFs inside P7M containers and supported Italian FatturaPA FPR12/FPA12 invoices in the browser. **Limited free · full previews are watermarked; single-file export costs €1.99; batch processing needs an account; local integrity checks do not validate certificate trust, revocation or legal signature validity.**
 
 - [PDFsam Basic](https://www.pdfsam.org) — Free and open-source desktop app to split, merge, rotate and encrypt PDFs; files never leave your computer. **Free · Open source · Local/offline · AGPL. PDFsam Visual is a separate 14-day trial and excluded.**
 
