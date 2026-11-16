@@ -1356,6 +1356,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [Bulk Resize Photos](https://bulkresizephotos.com) — Unlimited free batch image resizer with no sign-up; images are processed in your browser and never uploaded. **Free · Local/offline · 'Private — no uploading'.**
 - [imgmov Start-Image Resizer](https://imgmov.com/resize-image-for-ai-video) — Crops or pads an image to exact start-frame dimensions and downloads JPEG or PNG with an export-size check. **Free · Local/offline · No account; images stay in the browser, while the parent AI video generator sells paid exports.**
 - [Ezgif](https://ezgif.com) — Free online GIF and animation maker, converter and optimizer with optional in-browser local processing. **Free · Most tools upload files; Oct 2026 added a Local processing option and WASM bulk optimizer.**
+- [AVIFCrate](https://avifcrate.com/) — Batch-converts 8-, 10-, and 12-bit AVIF images to JPEG in the browser, with quality and background controls. **Free · Local/offline · HDR becomes 8-bit JPEG; animated AVIF exports its first frame.**
 
 ### QR codes, barcodes and text tools
 <!-- verified: 2026-10-16 -->
