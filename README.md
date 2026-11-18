@@ -1151,7 +1151,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [Polotno Studio](https://studio.polotno.com/) — Browser-based editor for making social graphics, thumbnails and simple presentations. **Free · web-based, no install.**
 - [Wireframe.cc](https://wireframe.cc/) — Minimal wireframing tool that keeps sketches low-fidelity so you focus on ideas. **Limited free · free saves are stored at public URLs.**
 - [Storybook](https://github.com/storybookjs/storybook) — Workshop for building, documenting and testing UI components in isolation. **Open source.**
-- [AppScreen](https://appscreen.pro/) — Browser editor that turns raw app captures into App Store and Google Play screenshots with device frames, captions and backgrounds. **Free tier · no account needed; 3 projects of up to 5 screenshots, phone frames only (tablet frames are paid).**
+- [AppScreen](https://appscreen.pro/) — Browser editor that turns raw app captures into App Store and Google Play screenshots with device frames, captions and backgrounds. **Free · no account needed.**
 
 ### Logo creation, typography and fonts
 
