@@ -1284,6 +1284,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [Audacity](https://www.audacityteam.org/) — Multi-track recorder and editor with noise removal, EQ, compression and analysis tools. **Open source.**
 - [Ardour](https://ardour.org/) — Professional multitrack digital audio workstation for recording, editing, mixing and mastering. **Open source · prebuilt installers are paid, source builds are free.**
 - [LMMS](https://lmms.io/) — Music production suite with synthesizers, beat sequencers, sample tracks and plugin hosting. **Open source.**
+- [Punchline Drum Machine](https://punchline.fm/online-drum-machine) — Browser-based 16-step sequencer with six synthesized sounds, five presets and WAV export. **Free · no account required, one-bar pattern, four-bar WAV export.**
 - [ocenaudio](https://www.ocenaudio.com/) — Easy, cross-platform audio editor with real-time effects preview and large-file support. **Free · free for personal and commercial use.**
 
 - [Flat](https://flat.io) — Collaborative online music notation with playback. **Free tier · Free plan covers 15 scores and 30 instruments.**
