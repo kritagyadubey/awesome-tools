@@ -1118,6 +1118,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 ### Raster image editing and photo management
 <!-- verified: 2026-10-16 -->
 
+- [Crosy](https://crosy.app/) — Converts raster images or blank charts into cross-stitch patterns with DMC thread color adjustments, digital stitch previews, and progress marking; standard editing and previews are currently free, while complete exports require an account and 30 credits per pattern unlock. **Limited free.**
 - [GIMP](https://www.gimp.org/) — Raster image editor for photo retouching, compositing and painting with layers and brushes. **Open source.**
 - [Krita](https://krita.org/) — Painting studio for concept art, illustration and animation with advanced brush engines. **Open source.**
 - [Photopea](https://www.photopea.com/) — Browser-based image editor with layers, masks and full PSD support that processes files locally. **Free · Local/offline processing · ads.**
