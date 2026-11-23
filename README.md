@@ -1277,6 +1277,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [HandBrake](https://handbrake.fr/) — Video transcoder that converts files to MP4/H.265 with presets and fine-grained filters. **Open source.**
 - [FFmpeg](https://ffmpeg.org/) — Command-line suite for converting, cutting, muxing, streaming and analyzing almost any media format. **Open source · command-line only.**
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) — Creates, syncs, translates and converts subtitles with waveform display and OCR repair. **Open source · primarily a Windows build.**
+- [Free Video Converter](https://free-video-converter.web-free.site/) — Converts MOV, MKV, WebM, AVI and MP4 files to MP4 inside the browser with ffmpeg.wasm; no upload, no account. **Free · Local/offline processing · ad-supported.**
 
 ### Audio editing, music production and podcasting
 <!-- verified: 2026-10-16 -->
