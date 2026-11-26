@@ -886,6 +886,7 @@ Labels are applied conservatively. Where a tool's free access is ambiguous, the 
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Google's auditor for page performance, Core Web Vitals and mobile usability. **Free · field data needs enough Chrome traffic.**
 - [Google Search Console](https://search.google.com/search-console) — Official Google dashboard for indexing, search queries and site issues. **Free · requires domain verification.**
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) — Desktop crawler that audits titles, links, redirects and metadata across a site. **Limited free · the free version crawls up to 500 URLs.**
+- [Mydentify: Can AI Bots Read My Site?](https://mydentify.com/tools/ai-crawler-access-checker) — Checks a public page against robots.txt and page-level directives, then probes it with documented OpenAI and Anthropic crawler user-agent names. **Free · no account required; probes do not come from provider IPs and do not guarantee crawl access.**
 - [Plausible](https://github.com/plausible/analytics) — Lightweight, cookieless web analytics with a self-hostable community edition. **Open source · self-host free, hosted service paid.**
 - [Umami](https://umami.is/) — Privacy-focused website analytics dashboard you can run yourself. **Open source · Free tier on cloud, capped by sites and events.**
 - [Matomo](https://matomo.org/) — Full-featured analytics platform you can self-host without cookie banners in most cases. **Open source · Free tier when self-hosted.**
